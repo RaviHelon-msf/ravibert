@@ -138,5 +138,3 @@ Contributions to enhance Ravibert's functionality or improve its integration wit
 
 This project is open-source and follows the licensing terms outlined in the [LICENSE](LICENSE) file.
 ```
-
-This README template provides a structure for the Ravibert project, emphasizing its focus on chatbot development and integration into a personal website. The template includes information on project goals, resources, getting started, contribution guidelines, and licensing terms.
